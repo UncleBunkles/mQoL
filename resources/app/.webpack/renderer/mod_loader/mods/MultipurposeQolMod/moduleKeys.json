@@ -1,0 +1,18 @@
+
+{
+    "MainUI": 99909,
+    "CharWeaponsPanel": 57609,
+    "UI_treasureScene": 76438,
+    "GemClass": 20654,
+    "ReelConfig": 55842,
+    "TreasureClass": 2223,
+    "TreasureMapPanel": 16726,
+    "UI_selectWeaponScene": 8507,
+    "SelectWeaponPanel": 89175,
+    "CharSelectionScene": 20708,
+    "WeaponPanelClass": 89526,
+    "UI_levelUpScene": 72720,
+    "ConfirmationPanel": 37441,
+    "OptionsScene": 34925,
+    "UI_topBar": 70499
+}

@@ -1,0 +1,36 @@
+{
+    "debugModeEnabled": false,
+    "limitBreakTooltipEnabled": true,
+    "dpsTooltipEnabled": true,
+    "killsPSEnabled": true,
+    "goldPSEnabled": true,
+    "spawnChestsOnPlayerEnabled": false,
+    "coloredChestsEnabled": true,
+    "coloredGuidesEnabled": true,
+    "gemGuideEnabled": true,
+    "instantMagnetEnabled": false,
+    "extendedCandyboxEnabled": true,
+    "candiesForEveryoneEnabled": false,
+    "limitBreakUniqueWeightsEnabled": true,
+    "minimalMagnetRange": 15,
+
+    "skipSingleChests": true,
+    "autoSingleChestsConfirm": true,
+
+    "skipTripleChests": true,
+    "autoTripleChestsConfirm": true,
+
+    "skipPentaChests": true,
+    "autoPentaChestsConfirm": true,
+
+    "masterOpacity": 1,
+    "debugChestLvl": 2,
+
+    "startingArcanas": 1,
+    "maxArcanas": 3,
+    "maxPowerUpWeapons": 6,
+
+    "killsPSQueueSize": 5,
+    "goldPSQueueSize": 5,
+    "dpsQueueSize": 5
+}
